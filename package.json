@@ -1,0 +1,22 @@
+{
+  "name": "new-folder-6",
+  "version": "1.0.0",
+  "description": "A package for managing a new folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "folder",
+    "management"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.7"
+  }
+}
